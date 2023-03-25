@@ -9,5 +9,3 @@ elif how_r_u == "bad":
     print("Ooh I'm so sorry for you. Hugging you tightly so you could feel better")
 else:
     print("Check your answer again")
-
-
