@@ -66,8 +66,4 @@ if my_stat > opponent_stat:
 elif my_stat < opponent_stat:
     print('You Lose!')
 else:
-    print('Draw!')
-    
-again=input("Do you want to play again? (yes/no)")
-if again == yes:
-    
+    print('Draw!') 
